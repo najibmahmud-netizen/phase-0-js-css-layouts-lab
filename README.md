@@ -17,7 +17,7 @@ A simple responsive web page that displays different cat breeds using Flexbox an
 Follow these steps to run the project locally:
 
 Clone the repository:
-git clone git@github.com:learn-co-curriculum/phase-0-js-css-layouts-lab.git
+git clone git@github.com:najibmahmud-netizen/phase-0-js-css-layouts-lab.git
 Navigate into the project folder:
 cd yourproject
 Install dependencies:
